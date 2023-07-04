@@ -1,1 +1,3 @@
-//to be implemented
+def home_screen():
+  # to be implemented
+  pass
